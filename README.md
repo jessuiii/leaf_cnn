@@ -1,1 +1,1 @@
-# leaf_cnn
+Leaf Disease and Severity Detection
